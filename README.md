@@ -155,7 +155,7 @@ psycopg2 - PostgreSQL database adapter for Python
 
 ```create_tables.py``` : contains code for 
 
-* setting up database - to create **sparkifydb** 
+* setting up database - to create **sparkifydb
 * creating the fact table
 * creating dimension tables
 
@@ -166,8 +166,8 @@ psycopg2 - PostgreSQL database adapter for Python
 
 ```etl.py``` : contains code to
 
-* read  **song_data** and **log_data**
-* process **song_data** and **log_data**
+* read  **song_data and **log_data
+* process **song_data and **log_data
 * establish the ETL pipeline
 
 ```test.ipynb``` : a jupyter notebook that is used to 
